@@ -4,7 +4,7 @@ Welcome to the **PowerFull Sports Center** website! This project showcases a mod
 
 ## Live Demo
 
-You can check out the live version of the website [here](https://genuine-tapioca-8aed24.netlify.app/#contact).
+You can check out the live version of the website [here]([[https://genuine-tapioca-8aed24.netlify.app/#contact](https://genuine-tapioca-8aed24.netlify.app)](https://genuine-tapioca-8aed24.netlify.app)).
 
 ---
 
